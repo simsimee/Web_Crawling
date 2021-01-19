@@ -1,1 +1,1 @@
-# Web_Crawling
+# News Title, Body Crawling with 'BeautifulSoup'
